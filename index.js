@@ -4,9 +4,9 @@ function myAnimal()
   return animal;
 }
 
-function yourAnimal()
+function yourAnimal(n)
 {
-  return animal;
+  return n;
 }
 
 function add2(n) 
